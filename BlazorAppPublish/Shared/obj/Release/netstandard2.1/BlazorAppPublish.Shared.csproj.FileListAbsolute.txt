@@ -1,0 +1,9 @@
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\bin\Release\netstandard2.1\BlazorAppPublish.Shared.deps.json
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\bin\Release\netstandard2.1\BlazorAppPublish.Shared.dll
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\bin\Release\netstandard2.1\BlazorAppPublish.Shared.pdb
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\obj\Release\netstandard2.1\BlazorAppPublish.Shared.csprojAssemblyReference.cache
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\obj\Release\netstandard2.1\BlazorAppPublish.Shared.AssemblyInfoInputs.cache
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\obj\Release\netstandard2.1\BlazorAppPublish.Shared.AssemblyInfo.cs
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\obj\Release\netstandard2.1\BlazorAppPublish.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\obj\Release\netstandard2.1\BlazorAppPublish.Shared.dll
+C:\Users\Aalipour\source\repos\BlazorAppPublish\BlazorAppPublish\Shared\obj\Release\netstandard2.1\BlazorAppPublish.Shared.pdb
